@@ -32,7 +32,7 @@ export default function Hero() {
               Consulta Gratuita
             </button> </a>
             <a
-              href="https://drive.google.com/drive/folders/1p1aUQXkz-XL6imb49ACXWNQpDjk3uVTy?usp=sharing"
+              href="https://drive.google.com/drive/folders/1p1aUQXkz-XL6imb49ACXWNQpDjk3uVTy"
               target="_blank"
             >
               <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold border-2 border-blue-600 hover:bg-blue-50 transition-colors">
